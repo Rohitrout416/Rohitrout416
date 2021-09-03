@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rohitrout416
+- 👋 Hi, I’m @Rohitrout
 - 👀 I’m interested in cs.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on .
