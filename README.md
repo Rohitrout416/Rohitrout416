@@ -77,8 +77,8 @@
 
 ## 📊 GitHub Stats
 
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohitrout416&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitrout416&layout=compact&theme=radical)
 
 ---
 
@@ -92,7 +92,7 @@
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/rohit-kumar-rout/)
+- 💼 LinkedIn: [https://linkedin.com/in/rohit-kumar-rout](https://www.linkedin.com/in/rohit-kumar-rout/)
 - 📧 Email: rohitrout543@gmail.com
 <!--  - 🌐 Portfolio: Coming soon -->
 
