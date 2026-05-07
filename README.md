@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-- 🏢 Software Engineer at **PwC India**
+- 🏢 Software Engineer at **Deltek**
 - 🧠 Experience working on enterprise-grade systems and applications
 - ⚙️ Building full-stack applications using modern web technologies
 - ☁️ Hands-on with **Azure & AWS**, focusing on deployment and cloud fundamentals
